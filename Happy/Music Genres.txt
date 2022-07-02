@@ -1,0 +1,19 @@
+
+Rock = 0
+Pop = 0
+Hip Hop = 0
+Rhythm and blues = 0
+Jazz = 0
+Folk = 0
+Country = 0
+Classical = 0
+Electronic dance = 0
+Alternative rock = 0
+Singing = 0
+Heavy metal = 0
+Soul = 0
+Instrumental = 0
+Dance = 0
+Pop rock = 0
+Funk = 0   
+    
