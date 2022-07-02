@@ -18,8 +18,11 @@ from pytube import Playlist
 
 import tkinter as tk
 
-
-
+try:
+    os.system("Clear")
+except:
+    print("Windows not linux :(")
+    quit()
 
 
 def show_frame(frame):
