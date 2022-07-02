@@ -76,32 +76,9 @@ reset_code()
 # Functions
 
 def Secturty():
-    path = (r"C:\Users\Rob\Desktop\Happy")
-    dir_list = str(os.listdir(path))
+    pass
+       # Error setting up
 
-    if "'README.txt'" in dir_list:
-        pass
-
-    elif "profileCo.txt" in dir_list:
-        pass
-
-    elif "Saved_input.txt" in dir_list:
-        pass
-
-    elif "Songs.txt" in dir_list:
-        pass
-
-    elif "Music Genres.txt" in dir_list:
-        pass
-
-    elif "Cutedog.jpg" in dir_list:
-        pass
-
-    elif "'Together.jpg'" in dir_list:
-        pass
-
-    else:
-        quit()
 Secturty()
 def Changesize():
     win.geometry('600x300')
