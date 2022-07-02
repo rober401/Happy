@@ -25,3 +25,8 @@ import tkinter.messagebox
 from PIL import ImageTk, Image
 import time
 import calendar
+
+
+To run the script  >>  Go to the Happy folder, run Happy.pyw
+
+TO reset the entire project >> Open profileCo.txt >> change the 1 to a 0
